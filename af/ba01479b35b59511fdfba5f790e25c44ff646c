@@ -1,0 +1,37 @@
+index.js
+  s_1c4c12040a111a::t_754e7ca4681c84 13-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "afba01479b35b59511fdfba5f790e25c44ff646c",
+  "prompts": {},
+  "humans": {
+    "h_86a8201d3ab515": {
+      "author": "huang_jy <huangjianyi5@huawei.com>"
+    }
+  },
+  "sessions": {
+    "s_1c4c12040a111a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ebc2b93d4ffeuid8yXXTmcCIbC",
+        "model": "glm-5.3"
+      },
+      "human_author": "huang_jy <huangjianyi5@huawei.com>",
+      "total_additions": 8,
+      "total_deletions": 2,
+      "overridden_lines": 0,
+      "turn_models": {
+        "t_754e7ca4681c84": "glm-5.3",
+        "t_d3c6c277ddb2f5": "glm-5.3"
+      },
+      "model_totals": {
+        "glm-5.3": {
+          "additions": 8,
+          "deletions": 2
+        }
+      }
+    }
+  }
+}
