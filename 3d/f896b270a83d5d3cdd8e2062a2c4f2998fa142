@@ -1,0 +1,14 @@
+index.js
+  h_86a8201d3ab515 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "3df896b270a83d5d3cdd8e2062a2c4f2998fa142",
+  "prompts": {},
+  "humans": {
+    "h_86a8201d3ab515": {
+      "author": "huang_jy <huangjianyi5@huawei.com>"
+    }
+  }
+}
