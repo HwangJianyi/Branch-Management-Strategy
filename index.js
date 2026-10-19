@@ -17,3 +17,6 @@ const pipInit = () => ({ ready: true })
 
 // F1-2: Feat1 第二段（pipeline 执行）
 const pipRun = (v) => fetch(v)
+
+// F1-3: Feat1 第二回合增量（pipeline 清理）
+const pipCleanup = () => ({ ready: false })
