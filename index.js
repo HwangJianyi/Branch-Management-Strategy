@@ -14,3 +14,6 @@ const fetch = (v) => {
 
 // F1-1: Feat1 第一段（pipeline 初始化）
 const pipInit = () => ({ ready: true })
+
+// F1-2: Feat1 第二段（pipeline 执行）
+const pipRun = (v) => fetch(v)
