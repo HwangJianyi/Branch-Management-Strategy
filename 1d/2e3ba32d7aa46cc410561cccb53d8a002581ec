@@ -1,0 +1,16 @@
+index.js
+  h_86a8201d3ab515 6
+CHANGELOG.md
+  h_86a8201d3ab515 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "5.30.1",
+  "base_commit_sha": "1d2e3ba32d7aa46cc410561cccb53d8a002581ec",
+  "prompts": {},
+  "humans": {
+    "h_86a8201d3ab515": {
+      "author": "huang_jy <huangjianyi5@huawei.com>"
+    }
+  }
+}
